@@ -1,6 +1,6 @@
-name = "IntegerVersions"
+name = "CMULean"
 version = "0.1.0"
-defaultTargets = ["IntegerVersions"]
+defaultTargets = ["CMULean"]
 
 [leanOptions]
 pp.unicode.fun = true
@@ -12,4 +12,4 @@ scope = "leanprover-community"
 rev = "v4.35.0"
 
 [[lean_lib]]
-name = "IntegerVersions"
+name = "CMULean"
